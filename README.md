@@ -1,3 +1,12 @@
+# Preview: https://mockup-4e938.web.app
+<img width="726" alt="ScreenShot2022-12-24 22 18 54" src="https://user-images.githubusercontent.com/61166944/209455943-7f288b21-bddb-440a-b8ef-efe721d0fb2f.png">
+
+# What's Here!
+This a fully functional FULL Stack amazon mockup. 
+Powered by React, ElementsUI, Stripe, Firebase and some other libaries. 
+You can register or sign in this app and enjoy the shopping cart based on realtime database. 
+Then you can make the payment in real!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
