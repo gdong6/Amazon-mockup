@@ -1,5 +1,9 @@
 # Preview: https://mockup-4e938.web.app
-<img width="726" alt="ScreenShot2022-12-24 22 18 54" src="https://user-images.githubusercontent.com/61166944/209455943-7f288b21-bddb-440a-b8ef-efe721d0fb2f.png">
+<img width="1095" alt="ScreenShot2022-12-26 00 17 51" src="https://user-images.githubusercontent.com/61166944/209504717-81da9212-c30b-4d32-85e7-70dd065969c0.png">
+
+<img width="1103" alt="ScreenShot2022-12-26 00 19 31" src="https://user-images.githubusercontent.com/61166944/209504997-452367ce-0b20-4c00-b3c3-970500e4802a.png">
+
+<img width="1104" alt="ScreenShot2022-12-26 00 20 49" src="https://user-images.githubusercontent.com/61166944/209505294-a4bb65db-c11d-4f08-90bf-a9173e2d47df.png">
 
 # What's Here!
 This a fully functional FULL Stack amazon mockup. 
