@@ -3,7 +3,7 @@
 
 # What's Here!
 This a fully functional FULL Stack amazon mockup. 
-Powered by React, ElementsUI, Stripe, Firebase and some other libaries. 
+Powered by React, MUI, Elements, Stripe, Firebase and some other libaries. 
 You can register or sign in this app and enjoy the shopping cart based on realtime database. 
 Then you can make the payment in real!!
 
